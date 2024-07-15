@@ -10,6 +10,7 @@ Este proyecto es una aplicación de ejemplo que demuestra cómo crear una API RE
   ![Crear topico](https://github.com/user-attachments/assets/4abe13a8-1b32-4ba0-aabb-9e87678357cf)
 
 - **Listar Tópicos**: Permite listar todos los tópicos registrados.
+
   ![Listar topico](https://github.com/user-attachments/assets/da5b8429-43fb-4edc-853c-b03316400470)
 
 - **Actualizar**: Permite actualizar ciertos datos de la aplicacion.
