@@ -20,7 +20,8 @@ Este proyecto es una aplicación de ejemplo que demuestra cómo crear una API RE
   ![Eliminar Topico](https://github.com/user-attachments/assets/29360944-0246-4554-95ba-d1294e791a2f)
   
 - **Login**: Debe existir un login para realizar las operacines anteriores.
-  ![login](https://github.com/user-attachments/assets/aa17945a-f175-4fd7-84a3-67ba435d53b2)
+  ![login](https://github.com/user-attachments/assets/14ada1cc-8e49-4d6d-a8d4-18aedda61e98)
+
 
 ## Dependencias Utilizadas
 
